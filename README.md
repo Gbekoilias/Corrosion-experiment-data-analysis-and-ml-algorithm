@@ -15,8 +15,10 @@ The analysis project also considers the impact of changes in the ionic compositi
 </h2>
 The input datasets for the analysis include corrosion index values and streamflow data, which are utilized to run WRTDS (Weighted Regressions on Time, Discharge, and Season) trend models. The CSMR is calculated by dividing the chloride concentration (expressed as mg Cl/L) by the sulfate concentration (expressed as mg SO4/L). The LR is calculated based on chloride, sulfate, and alkalinity concentrations, expressed in mg Cl/L, mg SO4/L, and mg CaCO3/L, respectively.
 
-## Aim of the Project
+<h2 align="center">Aim of the Project
+</h2>
 The project aims to produce trend results for the CSMR and LR indices from 1992 to 2012. By analyzing these trends, the study intends to provide valuable insights into the changes in water corrosivity over time and understand the potential implications for water distribution systems. This analysis contributes to the broader understanding of water quality and the management of corrosion-related issues in the context of drinking water facilities.
 
-## Conclusion
+<h2 align="center">Conclusion
+</h2>
 Overall, this data-driven analysis project delves into long-term water-quality data, exploring trends in water corrosivity and streamflow to assess the potential for corrosion in water distribution systems. The findings will contribute to informed decision-making, allowing for effective mitigation strategies and improvements in water management practices.
